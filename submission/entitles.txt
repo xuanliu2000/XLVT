@@ -1,0 +1,935 @@
+Q551997 rdfs:label metal wire
+Q123131014 rdfs:label metalworking machine
+Q1354582 rdfs:label train hitch
+Q91248259 rdfs:label traintrack
+Q57216 rdfs:label plate
+Q1081004 rdfs:label rail fastening system
+Q1081102 rdfs:label control panel
+Q499954 rdfs:label knurling
+Q7338813 rdfs:label rivet gun
+Q598812 rdfs:label Claw crane
+Q4200418 rdfs:label soldering gun
+Q842763 rdfs:label Magnetic bearing
+Q7202204 rdfs:label plate bending machine
+Q144764 rdfs:label loppers
+Q1335987 rdfs:label Roller bearing
+Q1351693 rdfs:label snow blower
+Q267290 rdfs:label clothespin
+Q122157280 rdfs:label snowblower
+Q331533 rdfs:label tape dispenser
+Q26623 rdfs:label rail
+Q646 rdfs:label thermometer
+Q1255405 rdfs:label Cutting pliers
+Q815240 rdfs:label hanger
+Q8063 rdfs:label rocks
+Q18341850 rdfs:label Mortar and pestle
+Q321495 rdfs:label wire stripper
+Q3681647 rdfs:label metal lathe
+Q64574194 rdfs:label wick trimmer
+Q117207985 rdfs:label meat slicer
+Q72797 rdfs:label safety goggles
+Q203443 rdfs:label gravestone
+Q8347 rdfs:label pipes
+Q12012720 rdfs:label center punch
+Q245761 rdfs:label Grinder
+Q128601795 rdfs:label electric chainsaw
+Q11009 rdfs:label nuts
+Q61996946 rdfs:label metal part
+Q1323314 rdfs:label bag
+Q11878012 rdfs:label Electrical component
+Q125831877 rdfs:label horizontal drilling machine
+Q83405 rdfs:label factory
+Q2365675 rdfs:label table saw
+Q124816652 rdfs:label laser cutter
+Q116971194 rdfs:label pipe cutter
+Q1879849 rdfs:label soldering station
+Q1411242 rdfs:label Vice
+Q1709184 rdfs:label furnace
+Q830071 rdfs:label pallet jack
+Q507619 rdfs:label Chain
+Q4117715 rdfs:label volumetric pipette
+Q160342 rdfs:label train track
+Q212792 rdfs:label bolt
+Q36500248 rdfs:label tools
+Q2097438 rdfs:label shaper
+Q87577919 rdfs:label Closed lock
+Q3498102 rdfs:label tapered roller
+Q627405 rdfs:label garage door
+Q125526581 rdfs:label end effectors
+Q4243098 rdfs:label hook
+Q773544 rdfs:label leaf spring
+Q166849 rdfs:label magnifying glass
+Q44545890 rdfs:label steel coils
+Q17517 rdfs:label phone
+Q109902987 rdfs:label ice core drill
+Q100396546 rdfs:label metal grinding
+Q7209259 rdfs:label pole lathe
+Q216054 rdfs:label bandaid
+Q679300 rdfs:label Steering wheel
+Q211629 rdfs:label Sparks
+Q245761 rdfs:label grinder
+Q245005 rdfs:label teapot
+Q107193471 rdfs:label t ruler
+Q8027646 rdfs:label Wisk
+Q126164614 rdfs:label Platen press
+Q71865 rdfs:label Ice screws
+Q500548 rdfs:label Glue
+Q2644088 rdfs:label gear train
+Q426853 rdfs:label movable type
+Q3045515 rdfs:label industrial equipment
+Q17633118 rdfs:label ingots
+Q189566 rdfs:label Mortar
+Q117052828 rdfs:label Ice saw
+Q178692 rdfs:label Crane
+Q917714 rdfs:label scrap metal
+Q36303367 rdfs:label gauge blocks
+Q64629735 rdfs:label key and lock
+Q106827110 rdfs:label knurling tool
+Q105667240 rdfs:label Wire rope clip
+Q44245 rdfs:label rollers
+Q1993271 rdfs:label nippers
+Q32489 rdfs:label knife
+Q82753 rdfs:label File
+Q38720 rdfs:label wind mill
+Q127477693 rdfs:label Cylindrical roller bearing
+Q143873 rdfs:label Gears
+Q1645496 rdfs:label japanese saw
+Q46847 rdfs:label ring
+Q208502 rdfs:label rail car
+Q80852 rdfs:label bottle opener
+Q594739 rdfs:label framing
+Q13231055 rdfs:label computer numerical control machine
+Q6500733 rdfs:label printing press
+Q66393598 rdfs:label ear plugs
+Q53060 rdfs:label gate
+Q51365750 rdfs:label coat hangers
+Q1967985 rdfs:label wheel lock
+Q111525439 rdfs:label ear protector
+Q16275225 rdfs:label Collet
+Q101401 rdfs:label bell
+Q66221 rdfs:label storage
+Q17633118 rdfs:label Ingots
+Q406839 rdfs:label thumbtack
+Q1030313 rdfs:label duct tape
+Q3195852 rdfs:label key hole
+Q1936841 rdfs:label Semi truck
+Q70875100 rdfs:label power saw
+Q3962 rdfs:label laptop
+Q245934 rdfs:label wire cutter
+Q11475 rdfs:label vacuum
+Q132041 rdfs:label key
+Q17084518 rdfs:label coping saw
+Q623755 rdfs:label conveyor belt
+Q3276479 rdfs:label Tongs
+Q171043 rdfs:label steam locomotive
+Q146728 rdfs:label water wheel
+Q2746628 rdfs:label wire wheel
+Q23009 rdfs:label door handle
+Q1139048 rdfs:label coffee grinder
+Q8076 rdfs:label game console
+Q11301405 rdfs:label cable cutter
+Q134560 rdfs:label belt
+Q8039083 rdfs:label wipe
+Q213376 rdfs:label Wine production
+Q45299 rdfs:label wire brush
+Q5182192 rdfs:label cranks
+Q4421 rdfs:label wood
+Q117840815 rdfs:label wehrhahn
+Q99529475 rdfs:label bullets
+Q26666059 rdfs:label cider press
+Q14906 rdfs:label Garlic Press
+Q122949879 rdfs:label resistance welder
+Q119519004 rdfs:label casting mold
+Q1554469 rdfs:label rubber mallet
+Q520049 rdfs:label honing steel
+Q71898875 rdfs:label Filter presses
+Q70317690 rdfs:label screw anchor
+Q245761 rdfs:label Grinding machine
+Q212792 rdfs:label Bolt
+Q1313540 rdfs:label safety curtain
+Q2916202 rdfs:label cookie cutter
+Q18039682 rdfs:label pins
+Q420139 rdfs:label cordless power tool
+Q100869637 rdfs:label snap ring pliers
+Q3947 rdfs:label house
+Q2560552 rdfs:label Workpiece
+Q3275823 rdfs:label steel square
+Q914940 rdfs:label Electrical tape
+Q61638442 rdfs:label voltage probe
+Q4503 rdfs:label network switch
+Q193142 rdfs:label files
+Q125356 rdfs:label saw
+Q1501161 rdfs:label tool kit
+Q104555 rdfs:label Tape measure
+Q5 rdfs:label people
+Q114396271 rdfs:label chisels
+Q131502 rdfs:label generator
+Q131696 rdfs:label towel
+Q1569881 rdfs:label voltage detector
+Q173350 rdfs:label printed circuit board
+Q29957 rdfs:label Funnel
+Q1963205 rdfs:label needle scaler
+Q1335987 rdfs:label roller bearing
+Q23914072 rdfs:label pneumatic rock drill
+Q686 rdfs:label van
+Q327055 rdfs:label worker
+Q471898 rdfs:label safe
+Q1046315 rdfs:label Level
+Q36794 rdfs:label door
+Q488855 rdfs:label keyhole
+Q474188 rdfs:label chisel
+Q1820305 rdfs:label sugar cane mill
+Q116970842 rdfs:label plumbing fitting
+Q2455671 rdfs:label orbital sander
+Q245761 rdfs:label grinding machine
+Q1734658 rdfs:label caulk gun
+Q917001 rdfs:label briquette press
+Q633423 rdfs:label train rail
+Q787354 rdfs:label welding helmet
+Q80141659 rdfs:label paperclips
+Q116313124 rdfs:label polishing wheel
+Q50808387 rdfs:label machines
+Q3537631 rdfs:label car jack
+Q116329433 rdfs:label Button hook
+Q347690 rdfs:label work bench
+Q1426871 rdfs:label coordinate measuring machine
+Q48378 rdfs:label pulley
+Q124664818 rdfs:label step drill
+Q1304613 rdfs:label Glue gun
+Q870 rdfs:label train
+Q474188 rdfs:label Chisel
+Q12334336 rdfs:label juicer
+Q522821 rdfs:label ladel
+Q372301 rdfs:label abrasive
+Q11446 rdfs:label ship
+Q2068127 rdfs:label friction stir weld
+Q911814 rdfs:label rotary printing press
+Q19610114 rdfs:label Switch
+Q12408 rdfs:label calipers
+Q105122904 rdfs:label Pump drill
+Q40558 rdfs:label blacksmith shop
+Q723748 rdfs:label fork
+Q456101 rdfs:label cordless drill
+Q267290 rdfs:label Clothespin
+Q19818 rdfs:label lathe chuck
+Q48818852 rdfs:label zippers
+Q85021487 rdfs:label rasps
+Q373255 rdfs:label miter saw
+Q856 rdfs:label barcode
+Q421922 rdfs:label paper shredder
+Q5639563 rdfs:label retaining pin
+Q1213746 rdfs:label taps
+Q15989253 rdfs:label part
+Q38350853 rdfs:label high-speed handpiece
+Q17542331 rdfs:label lockers
+Q23009 rdfs:label Door knob
+Q947463 rdfs:label Socket wrench
+Q142714 rdfs:label cards
+Q1392592 rdfs:label bike lock
+Q188488 rdfs:label scale
+Q26462972 rdfs:label bolt heads
+Q10512335 rdfs:label thread die
+Q1421844 rdfs:label sawhorse
+Q133792 rdfs:label globe
+Q235544 rdfs:label flame
+Q179700 rdfs:label statue
+Q193811 rdfs:label pencil sharpeners
+Q182221 rdfs:label Fuse
+Q1142501 rdfs:label auger
+Q79501070 rdfs:label screw driver
+Q27688955 rdfs:label thread insert
+Q45227 rdfs:label piston
+Q110705646 rdfs:label Electric screwdriver
+Q9372229 rdfs:label Patent Information
+Q16523459 rdfs:label typograph
+Q7428485 rdfs:label sawstop
+Q7582075 rdfs:label square nut
+Q57475496 rdfs:label horizontal mills
+Q19767 rdfs:label steam hammer
+Q12058409 rdfs:label heat cutter
+Q189155 rdfs:label Archimedes' screw
+Q98161482 rdfs:label steel plant
+Q2564323 rdfs:label bench grinder
+Q11352 rdfs:label angle
+Q633423 rdfs:label Train rail
+Q1255405 rdfs:label wire cutters
+Q83405 rdfs:label Factory
+Q2058262 rdfs:label hard hat
+Q2246394 rdfs:label Forging hammer
+Q11019 rdfs:label machine
+Q11999067 rdfs:label Safety pins
+Q25921354 rdfs:label vernier calipers
+Q11941822 rdfs:label rock drill
+Q17132188 rdfs:label stamping press
+Q23769 rdfs:label box cutter
+Q148958 rdfs:label clip
+Q505213 rdfs:label saw mill
+Q40089 rdfs:label Bricks
+Q5318 rdfs:label router
+Q46870528 rdfs:label building foundation
+Q205276 rdfs:label fishing hook
+Q45701 rdfs:label trash
+Q4822016 rdfs:label Combination square
+Q14976 rdfs:label snowplow
+Q82799 rdfs:label label
+Q93835461 rdfs:label gas cylinders
+Q39495 rdfs:label tractor
+Q1195470 rdfs:label locker
+Q5797705 rdfs:label power hacksaw
+Q1639825 rdfs:label blacksmith
+Q34493 rdfs:label motorcycle
+Q48890502 rdfs:label squares
+Q66035178 rdfs:label textile worker
+Q335283 rdfs:label drill bits
+Q674484 rdfs:label machine press
+Q64558810 rdfs:label mortar and pestles
+Q270380 rdfs:label nail clippers
+Q108699591 rdfs:label welders
+Q45242859 rdfs:label shelves
+Q123187391 rdfs:label Relays
+Q495451 rdfs:label crane hook
+Q36209305 rdfs:label ear muffs
+Q1413117 rdfs:label retention pond
+Q1441305 rdfs:label sign
+Q112589797 rdfs:label clamps
+Q2605626 rdfs:label scraper
+Q55637798 rdfs:label Wing nuts
+Q2710609 rdfs:label eye bolt
+Q124445592 rdfs:label safety helmet
+Q144764 rdfs:label pruning shears
+Q193358 rdfs:label ladle
+Q2477852 rdfs:label latch
+Q7980875 rdfs:label welding goggles
+Q4019477 rdfs:label whetstones
+Q183413 rdfs:label hole punch
+Q124441 rdfs:label washing machine
+Q4395226 rdfs:label rivets
+Q360418 rdfs:label construction site
+Q400406 rdfs:label awl
+Q1046315 rdfs:label rack
+Q36539 rdfs:label oven
+Q1584189 rdfs:label wheel nut
+Q634299 rdfs:label fire hydrant
+Q190672 rdfs:label fire extinguisher
+Q174565 rdfs:label Bracket
+Q813014 rdfs:label machining center
+Q3512781 rdfs:label rotary table
+Q13681 rdfs:label crow bar
+Q7197242 rdfs:label pipe clamps
+Q161071 rdfs:label screwdriver
+Q173603 rdfs:label helmet
+Q505213 rdfs:label lumber mill
+Q953477 rdfs:label engine block
+Q16974764 rdfs:label Amazon locker
+Q53366902 rdfs:label spirit levels
+Q1392526 rdfs:label bike rack
+Q3500690 rdfs:label church bell
+Q1499103 rdfs:label vernier caliper
+Q586319 rdfs:label ice pick
+Q47616 rdfs:label incandescent light bulbs
+Q123542118 rdfs:label machining tool
+Q47616 rdfs:label light bulb
+Q3373767 rdfs:label set screw
+Q1210980 rdfs:label Sponge
+Q284523 rdfs:label Climbing harness
+Q2750929 rdfs:label hand saw
+Q20820500 rdfs:label drill press
+Q43889008 rdfs:label hex nut
+Q2914427 rdfs:label guard shack
+Q1573728 rdfs:label textile machine
+Q193897 rdfs:label paintbrush
+Q18636073 rdfs:label good boy
+Q2144215 rdfs:label bevel gear
+Q26324515 rdfs:label chain saws
+Q110502275 rdfs:label angle brackets
+Q505996 rdfs:label pallet
+Q16191455 rdfs:label lumberjacks
+Q2036130 rdfs:label Stump grinder
+Q1535657 rdfs:label ball peen hammer
+Q674484 rdfs:label hydraulic press
+Q15977971 rdfs:label wood worker
+Q6934510 rdfs:label oscillating tool
+Q1760958 rdfs:label cutting tool
+Q5655249 rdfs:label hard hats
+Q623106 rdfs:label milling machine
+Q98557516 rdfs:label window shutters
+Q23914014 rdfs:label handtool
+Q2341315 rdfs:label stone saw
+Q874311 rdfs:label construction equipment
+Q126693120 rdfs:label Autoforge
+Q126548143 rdfs:label pump system
+Q113132988 rdfs:label pulley wheels
+Q211584 rdfs:label vending machine
+Q192532 rdfs:label digital lock
+Q64513255 rdfs:label anvils
+Q4346060 rdfs:label label printer
+Q3744469 rdfs:label bow saw
+Q1536423 rdfs:label tower crane
+Q15148 rdfs:label spatula
+Q70802185 rdfs:label Wood Saw
+Q827274 rdfs:label angle grinder
+Q40607 rdfs:label padlock
+Q7575612 rdfs:label speed square
+Q3045515 rdfs:label industrial machine
+Q2327264 rdfs:label welding robot
+Q59629885 rdfs:label oil seal
+Q15712110 rdfs:label Jigsaw
+Q50555673 rdfs:label lead pellets
+Q34486 rdfs:label helicopter
+Q1191195 rdfs:label mold
+Q201864 rdfs:label bolts
+Q143041 rdfs:label two-man saw
+Q193811 rdfs:label pencil sharpener
+Q2144243 rdfs:label snap ring
+Q13231055 rdfs:label CNC machine
+Q168639 rdfs:label ladder
+Q5005931 rdfs:label c-clamp
+Q1622008 rdfs:label high bay
+Q1081004 rdfs:label Rail fastening system
+Q108100344 rdfs:label pegboard
+Q1936800 rdfs:label welding machine
+Q2069494 rdfs:label steel mill
+Q2211295 rdfs:label drill presses
+Q5159079 rdfs:label concrete saw
+Q1327701 rdfs:label power tool
+Q1754646 rdfs:label power strip
+Q82753 rdfs:label file
+Q31029 rdfs:label rope
+Q245934 rdfs:label diagonal cutter
+Q208040 rdfs:label chainsaws
+Q749316 rdfs:label snack
+Q79701 rdfs:label stamps
+Q19600525 rdfs:label yubikey
+Q59628268 rdfs:label Ball bearings
+Q107196578 rdfs:label razor sharpener
+Q12280 rdfs:label bridge
+Q20820224 rdfs:label hand press
+Q37489626 rdfs:label hammers
+Q2346649 rdfs:label Underwater weld
+Q208040 rdfs:label chainsaw
+Q749400 rdfs:label screw thread
+Q806370 rdfs:label belt sander
+Q200266 rdfs:label handle
+Q143873 rdfs:label gears
+Q21491451 rdfs:label keys
+Q1625730 rdfs:label log splitter
+Q16251414 rdfs:label CNC router
+Q4868296 rdfs:label Lettertype
+Q169031 rdfs:label glove
+Q21107673 rdfs:label voltage sensor
+Q116971036 rdfs:label Grinding wheels
+Q5980103 rdfs:label sand casting
+Q16244138 rdfs:label black smith
+Q870 rdfs:label trains
+Q1414307 rdfs:label screw press
+Q40558 rdfs:label Forge
+Q2578402 rdfs:label hand tool
+Q1974641 rdfs:label screw conveyor
+Q190100 rdfs:label bearing
+Q894640 rdfs:label vial
+Q114815022 rdfs:label confocal microscope
+Q22667 rdfs:label railroad
+Q50321273 rdfs:label Hand tools
+Q1334343 rdfs:label roller
+Q12688575 rdfs:label drilling rig
+Q124448878 rdfs:label press machine
+Q45354 rdfs:label doors
+Q12280 rdfs:label Bridge
+Q1662011 rdfs:label industrial facility
+Q10436913 rdfs:label lumber yard
+Q66662475 rdfs:label CNC machines
+Q4784773 rdfs:label arbor press
+Q19037660 rdfs:label planing machine
+Q291319 rdfs:label crosscut saw
+Q157552 rdfs:label buckles
+Q58964 rdfs:label Drill
+Q2211295 rdfs:label drilling machine
+Q16953 rdfs:label Allen wrench
+Q26726 rdfs:label pot
+Q35473 rdfs:label window
+Q182661 rdfs:label excavator
+Q347690 rdfs:label workbench
+Q81096 rdfs:label engineer
+Q4863336 rdfs:label barrel nut
+Q253591 rdfs:label Wine press
+Q32489 rdfs:label knives
+Q124816652 rdfs:label laser cutting machine
+Q899260 rdfs:label meat grinder
+Q572421 rdfs:label comptometer
+Q1047037 rdfs:label screw pump
+Q244330 rdfs:label hinge
+Q7250083 rdfs:label propane torch
+Q12511 rdfs:label stairs
+Q446 rdfs:label wheel
+Q187833 rdfs:label lathe
+Q106197103 rdfs:label vintage press
+Q36534 rdfs:label chemical reaction
+Q93301 rdfs:label locomotive
+Q334471 rdfs:label clamp
+Q7220961 rdfs:label shovel
+Q178692 rdfs:label crane
+Q22731 rdfs:label stone
+Q39495 rdfs:label Tractor
+Q327055 rdfs:label Worker
+Q599007 rdfs:label work table
+Q11022 rdfs:label screw
+Q805189 rdfs:label ram press
+Q47916656 rdfs:label aluminum part
+Q111366670 rdfs:label storage bin
+Q15121807 rdfs:label Millstones
+Q115157326 rdfs:label soldering iron stand
+Q1182913 rdfs:label DeWalt tool
+Q117208100 rdfs:label chainsaw chain
+Q1193236 rdfs:label Press
+Q806378 rdfs:label Bandsaw
+Q73180554 rdfs:label push pins
+Q6607 rdfs:label guitar
+Q15712110 rdfs:label jigsaw
+Q2572032 rdfs:label molcajete
+Q2549582 rdfs:label warning sound
+Q3246458 rdfs:label dump truck
+Q23824436 rdfs:label hex socket
+Q3388624 rdfs:label crimping tool
+Q77257 rdfs:label nail gun
+Q1413824 rdfs:label glass blower
+Q114509230 rdfs:label acorn nuts
+Q18088363 rdfs:label scissor lift
+Q1139253 rdfs:label glue stick
+Q72797 rdfs:label safety glasses
+Q2002016 rdfs:label fastener
+Q7557228 rdfs:label soldering
+Q335283 rdfs:label Drill bits
+Q1553201 rdfs:label led light bulb
+Q18510097 rdfs:label glass cutter
+Q39397 rdfs:label axe
+Q25294 rdfs:label hammer
+Q193470 rdfs:label turbine engine
+Q8353 rdfs:label paper clips
+Q152833 rdfs:label gutter
+Q26322028 rdfs:label Horse wheel
+Q21620084 rdfs:label steel foundry
+Q1473346 rdfs:label stained glass
+Q64570459 rdfs:label door latch
+Q193466 rdfs:label electric motor rotor
+Q917714 rdfs:label metal scrap
+Q119519004 rdfs:label Casting Mold
+Q121540385 rdfs:label Jack stand
+Q1141837 rdfs:label circular saw
+Q1231985 rdfs:label Pedal
+Q57216 rdfs:label Plate
+Q256817 rdfs:label rubber bands
+Q5 rdfs:label person
+Q127255791 rdfs:label metal staples
+Q89997555 rdfs:label Forging tools
+Q109061 rdfs:label guide
+Q23709761 rdfs:label key ring
+Q13226383 rdfs:label facility
+Q17008663 rdfs:label decanter centrifuge
+Q26965868 rdfs:label wrist watch
+Q1077396 rdfs:label coveralls
+Q39101613 rdfs:label power drill
+Q3118165 rdfs:label construction crane
+Q836328 rdfs:label welder
+Q8194616 rdfs:label End mill
+Q1780087 rdfs:label I-beam
+Q1585781 rdfs:label needlenose pliers
+Q69738 rdfs:label pully
+Q11680736 rdfs:label oxygen tank
+Q96966430 rdfs:label burr grinder
+Q12529 rdfs:label worm gear
+Q7581549 rdfs:label spur gear
+Q38720 rdfs:label Windmill
+Q18341850 rdfs:label mortar and pestle
+Q19818 rdfs:label drill chuck
+Q116073019 rdfs:label sand paper
+Q26643341 rdfs:label mill wheel
+Q641296 rdfs:label total station
+Q131696 rdfs:label towels
+Q16953 rdfs:label hex key
+Q61962974 rdfs:label disassembled
+Q1049792 rdfs:label rolling mill
+Q5428384 rdfs:label face shield
+Q3057632 rdfs:label step ladder
+Q117715471 rdfs:label screwdrivers
+Q11009 rdfs:label nut
+Q104363 rdfs:label Anvil
+Q7918612 rdfs:label vehicles
+Q1402035 rdfs:label back saw
+Q26215525 rdfs:label continuous miner
+Q131172 rdfs:label welding
+Q17022503 rdfs:label bending machine
+Q39101613 rdfs:label Power drill
+Q863835 rdfs:label Reamer
+Q31087 rdfs:label calculator
+Q5656656 rdfs:label hardy tool
+Q43274 rdfs:label chuck
+Q849759 rdfs:label punch
+Q929 rdfs:label car
+Q870 rdfs:label Train
+Q1553201 rdfs:label LED light bulb
+Q147298 rdfs:label cones
+Q16243277 rdfs:label bearings
+Q29279406 rdfs:label fidget spinner
+Q1639825 rdfs:label Blacksmith
+Q118105475 rdfs:label access card
+Q115368 rdfs:label ruler and compass
+Q1621575 rdfs:label woodchipper
+Q2713450 rdfs:label Nameplate
+Q73823603 rdfs:label coffee grinders
+Q30938637 rdfs:label straps
+Q510662 rdfs:label loop
+Q5463013 rdfs:label flux
+Q982654 rdfs:label Hooks
+Q577681 rdfs:label helmets
+Q149757 rdfs:label tape
+Q182661 rdfs:label Excavator
+Q169031 rdfs:label gloves
+Q1931980 rdfs:label grinding wheel
+Q96746126 rdfs:label screw head
+Q1500589 rdfs:label cable tie
+Q327954 rdfs:label torch
+Q143873 rdfs:label gear
+Q244330 rdfs:label Hinge
+Q76299 rdfs:label light
+Q173136 rdfs:label blender
+Q8025239 rdfs:label wing nut
+Q229367 rdfs:label 3D printer
+Q1107164 rdfs:label steel coil
+Q119351824 rdfs:label fire extinguishers
+Q117811065 rdfs:label key pad
+Q111337192 rdfs:label grafting knife
+Q104526 rdfs:label pipe
+Q101401 rdfs:label Bell
+Q36935835 rdfs:label screws
+Q108260271 rdfs:label gravestones
+Q390417 rdfs:label crucible
+Q7370281 rdfs:label Rotary tool
+Q5167942 rdfs:label coopers
+Q2246394 rdfs:label forging hammer
+Q1621575 rdfs:label wood chipper
+Q2750929 rdfs:label Hand saw
+Q1024186 rdfs:label coins
+Q37077 rdfs:label nail
+Q1435328 rdfs:label binder clips
+Q17849064 rdfs:label drummel
+Q445454 rdfs:label punch press
+Q505213 rdfs:label sawmill
+Q2925119 rdfs:label brick mason
+Q64619050 rdfs:label printing blocks
+Q189155 rdfs:label archimedes screw
+Q107437313 rdfs:label machine screw
+Q38720 rdfs:label windmill
+Q8194616 rdfs:label end mill
+Q4683254 rdfs:label saw blade
+Q2082700 rdfs:label hopper
+Q27150131 rdfs:label juice press
+Q40847 rdfs:label scissors
+Q7545947 rdfs:label smoke stack
+Q33307883 rdfs:label wrenches
+Q21550597 rdfs:label factory lamps
+Q940913 rdfs:label Continuous track
+Q76552860 rdfs:label arc welder
+Q61978174 rdfs:label olive oil mill
+Q54806448 rdfs:label wood screw
+Q161071 rdfs:label Screwdriver
+Q105719289 rdfs:label air hose
+Q105731 rdfs:label lock
+Q183413 rdfs:label hole puncher
+Q3276479 rdfs:label tongs
+Q11945252 rdfs:label washers
+Q1138737 rdfs:label lamp
+Q77006266 rdfs:label bolt cutters
+Q107538 rdfs:label baco
+Q70926066 rdfs:label c clamps
+Q39546 rdfs:label tool
+Q4439513 rdfs:label Magnetic drilling machine
+Q2121955 rdfs:label Trip hammer
+Q623402 rdfs:label soldering iron
+Q1820425 rdfs:label pumpjack
+Q139143 rdfs:label extrusion
+Q59639674 rdfs:label compact fluorescent light bulb
+Q12337 rdfs:label corkscrew
+Q198918 rdfs:label draw plate
+Q114397090 rdfs:label tool heads
+Q1193236 rdfs:label press
+Q92022240 rdfs:label hi-vis jacket
+Q12337 rdfs:label Corkscrew
+Q150425 rdfs:label rebar
+Q838312 rdfs:label pin
+Q1253445 rdfs:label jointer
+Q982654 rdfs:label hooks
+Q652657 rdfs:label manhole cover
+Q599312 rdfs:label kitchen knife
+Q24175362 rdfs:label glass working
+Q1543947 rdfs:label grinding stone
+Q3446739 rdfs:label power hammer
+Q17325289 rdfs:label nails
+Q37930 rdfs:label stamp
+Q2205714 rdfs:label paper cutter
+Q114396271 subclassof Q114396271
+Q1139253 subclassof Q1139253
+Q11945252 subclassof Q7566306
+Q81096 subclassof Q1385316
+Q235544 subclassof Q243155
+Q36303367 subclassof Q36303367
+Q190100 subclassof Q16243277
+Q813014 subclassof Q953045
+Q201864 subclassof Q201864
+Q36534 subclassof Q910714
+Q1304613 subclassof Q1304613
+Q18341850 subclassof Q18341850
+Q11022 subclassof Q1458121
+Q107538 subclassof Q19572
+Q2144215 subclassof Q2144215
+Q21620084 subclassof Q123132052
+Q5 subclassof Q1422489
+Q125831877 subclassof Q1422489
+Q173136 subclassof Q27926630
+Q200266 subclassof Q2144683
+Q82753 subclassof Q6959585
+Q31087 subclassof Q2604110
+Q500548 subclassof Q2545787
+Q45354 subclassof Q64580494
+Q73823603 subclassof Q73823603
+Q9372229 subclassof Q66910375
+Q83405 subclassof Q287612
+Q870 subclassof Q110412884
+Q5980103 subclassof Q928402
+Q71865 subclassof Q71865
+Q144764 subclassof Q144764
+Q446 subclassof Q11722027
+Q53366902 subclassof Q53366902
+Q116073019 subclassof Q142274
+Q270380 subclassof Q107338568
+Q17325289 subclassof Q17325289
+Q1621575 subclassof Q14906751
+Q12280 subclassof Q831545
+Q686 subclassof Q5115258
+Q17633118 subclassof Q17633118
+Q114509230 subclassof Q114509230
+Q982654 subclassof Q24251437
+Q586319 subclassof Q123655
+Q3276479 subclassof Q3276479
+Q856 subclassof Q123146136
+Q66035178 subclassof Q26377691
+Q32489 subclassof Q5370897
+Q188488 subclassof Q1411337
+Q2068127 subclassof Q2068127
+Q7545947 subclassof Q2023378
+Q679300 subclassof Q2023378
+Q50555673 subclassof Q447623
+Q119519004 subclassof Q447623
+Q71898875 subclassof Q71898875
+Q105122904 subclassof Q21550909
+Q4346060 subclassof Q2342519
+Q11301405 subclassof Q15822388
+Q148958 subclassof Q3374258
+Q143873 subclassof Q98459571
+Q213376 subclassof Q60963515
+Q57216 subclassof Q7241657
+Q1334343 subclassof Q123683229
+Q23769 subclassof Q123683229
+Q126693120 subclassof Q17265437
+Q1734658 subclassof Q97375952
+Q70875100 subclassof Q113102697
+Q12012720 subclassof Q2295879
+Q57216 subclassof Q1486671
+Q64513255 subclassof Q64513255
+Q45299 subclassof Q64513255
+Q16244138 subclassof Q64513255
+Q26623 subclassof Q31836015
+Q1963205 subclassof Q1963205
+Q193811 subclassof Q193811
+Q133792 subclassof Q193811
+Q6500733 subclassof Q7245316
+Q1820425 subclassof Q502102
+Q115368 subclassof Q2297776
+Q122949879 subclassof Q60071567
+Q3276479 subclassof Q383441
+Q899260 subclassof Q54594889
+Q8027646 subclassof Q54594889
+Q471898 subclassof Q6245890
+Q39495 subclassof Q1395608
+Q123542118 subclassof Q1778349
+Q641296 subclassof Q26372504
+Q2211295 subclassof Q26372504
+Q599312 subclassof Q244605
+Q13231055 subclassof Q906963
+Q82753 subclassof Q1126002
+Q47616 subclassof Q998922
+Q874311 subclassof Q125523552
+Q48818852 subclassof Q48818852
+Q146728 subclassof Q805087
+Q2455671 subclassof Q1585730
+Q11999067 subclassof Q11999067
+Q109902987 subclassof Q60486919
+Q2578402 subclassof Q60486919
+Q25921354 subclassof Q976158
+Q11941822 subclassof Q11941822
+Q19600525 subclassof Q19600525
+Q36794 subclassof Q17496717
+Q8025239 subclassof Q55637798
+Q58964 subclassof Q890886
+Q1313540 subclassof Q59274840
+Q2327264 subclassof Q59274840
+Q7428485 subclassof Q7428485
+Q1081004 subclassof Q2234662
+Q805189 subclassof Q98648902
+Q2058262 subclassof Q122490
+Q64619050 subclassof Q582102
+Q36935835 subclassof Q36935835
+Q245005 subclassof Q2086692
+Q2002016 subclassof Q1650639
+Q2605626 subclassof Q47647295
+Q400406 subclassof Q161071
+Q98161482 subclassof Q38264196
+Q111337192 subclassof Q182058
+Q26215525 subclassof Q1128923
+Q173603 subclassof Q18332098
+Q7557228 subclassof Q7557228
+Q124448878 subclassof Q1892146
+Q216054 subclassof Q216054
+Q13231055 subclassof Q190247
+Q1081102 subclassof Q190247
+Q488855 subclassof Q488855
+Q36500248 subclassof Q80690908
+Q870 subclassof Q4042484
+Q421922 subclassof Q645424
+Q245761 subclassof Q645424
+Q14976 subclassof Q7547898
+Q947463 subclassof Q499954
+Q40607 subclassof Q59180356
+Q505213 subclassof Q2746079
+Q149757 subclassof Q116220928
+Q208040 subclassof Q208040
+Q284523 subclassof Q208040
+Q38720 subclassof Q2660889
+Q89997555 subclassof Q1155653
+Q1047037 subclassof Q111490753
+Q2121955 subclassof Q11183374
+Q16191455 subclassof Q125356
+Q111366670 subclassof Q125356
+Q11022 subclassof Q120768297
+Q24175362 subclassof Q2881990
+Q1413824 subclassof Q2881990
+Q3498102 subclassof Q59630858
+Q19818 subclassof Q59630858
+Q47916656 subclassof Q3367716
+Q36209305 subclassof Q3116751
+Q17849064 subclassof Q3116751
+Q59628268 subclassof Q59628268
+Q8194616 subclassof Q19768
+Q13231055 subclassof Q19768
+Q160342 subclassof Q2143500
+Q5428384 subclassof Q57690791
+Q5428384 subclassof Q131172
+Q131172 subclassof Q131172
+Q1141837 subclassof Q59442969
+Q446 subclassof Q59442969
+Q1931980 subclassof Q116971036
+Q2564323 subclassof Q116971036
+Q92022240 subclassof Q116971036
+Q11446 subclassof Q1564035
+Q505213 subclassof Q2027611
+Q1585781 subclassof Q1765723
+Q100869637 subclassof Q100869637
+Q4117715 subclassof Q40847
+Q40847 subclassof Q40847
+Q1435328 subclassof Q1435328
+Q2713450 subclassof Q35484265
+Q211629 subclassof Q1992360
+Q77006266 subclassof Q77006266
+Q15121807 subclassof Q15121807
+Q29279406 subclassof Q39425702
+Q2346649 subclassof Q2346649
+Q23914014 subclassof Q11921644
+Q335283 subclassof Q335283
+Q33307883 subclassof Q335283
+Q190100 subclassof Q951567
+Q50808387 subclassof Q5891062
+Q38720 subclassof Q19264200
+Q1049792 subclassof Q119684069
+Q146728 subclassof Q11721782
+Q8194616 subclassof Q1127242
+Q3962 subclassof Q12068
+Q44245 subclassof Q59227884
+Q36500248 subclassof Q59227884
+Q124441 subclassof Q70965225
+Q1500589 subclassof Q110047851
+Q4503 subclassof Q110047851
+Q929 subclassof Q338722
+Q149757 subclassof Q5875735
+Q144764 subclassof Q144764
+Q124816652 subclassof Q593053
+Q23709761 subclassof Q119361046
+Q4019477 subclassof Q4019477
+Q173350 subclassof Q1627310
+Q551997 subclassof Q80141659
+Q4395226 subclassof Q4395226
+Q594739 subclassof Q21550385
+Q46847 subclassof Q122564063
+Q6500733 subclassof Q30527503
+Q22731 subclassof Q59127168
+Q189566 subclassof Q2572032
+Q2572032 subclassof Q2572032
+Q11352 subclassof Q108431872
+Q108100344 subclassof Q117715471
+Q117715471 subclassof Q117715471
+Q15989253 subclassof Q18355911
+Q146728 subclassof Q111502903
+Q22667 subclassof Q1535051
+Q456101 subclassof Q68063456
+Q723748 subclassof Q5465462
+Q646 subclassof Q5465462
+Q499954 subclassof Q5465462
+Q139143 subclassof Q5465462
+Q1323314 subclassof Q18335861
+Q3057632 subclassof Q114556052
+Q44545890 subclassof Q44545890
+Q7545947 subclassof Q306848
+Q1639825 subclassof Q193057
+Q66662475 subclassof Q193057
+Q40558 subclassof Q193057
+Q57216 subclassof Q55255109
+Q190672 subclassof Q1277336
+Q30938637 subclassof Q1277336
+Q577681 subclassof Q982654
+Q982654 subclassof Q982654
+Q244330 subclassof Q1043177
+Q168639 subclassof Q4339908
+Q572421 subclassof Q572421
+Q1142501 subclassof Q760408
+Q93301 subclassof Q1193236
+Q40558 subclassof Q9047061
+Q1046315 subclassof Q515063
+Q123187391 subclassof Q515063
+Q836328 subclassof Q6859119
+Q2713450 subclassof Q107407155
+Q1030313 subclassof Q1030313
+Q1936800 subclassof Q1613682
+Q815240 subclassof Q92550302
+Q863835 subclassof Q109121046
+Q4243098 subclassof Q15635488
+Q1543947 subclassof Q124252047
+Q124445592 subclassof Q681384
+Q29957 subclassof Q1823255
+Q72797 subclassof Q7980875
+Q7980875 subclassof Q7980875
+Q17325289 subclassof Q16540481
+Q173136 subclassof Q127412725
+Q870 subclassof Q2078873
+Q1193236 subclassof Q113168993
+Q55637798 subclassof Q20885553
+Q1255405 subclassof Q1255405
+Q11680736 subclassof Q36294539
+Q474188 subclassof Q59179040
+Q2211295 subclassof Q2211295
+Q83405 subclassof Q25426071
+Q1392526 subclassof Q1392592
+Q21491451 subclassof Q21491451
+Q1077396 subclassof Q108699591
+Q108699591 subclassof Q108699591
+Q15712110 subclassof Q33346328
+Q116313124 subclassof Q4439472
+Q8063 subclassof Q62076677
+Q256817 subclassof Q256817
